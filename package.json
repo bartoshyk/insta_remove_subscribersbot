@@ -1,0 +1,12 @@
+{
+  "name": "remove_subscriber",
+  "description": "",
+  "main": "remove.js",
+  "author": "Nadiia Bartoshyk",
+  "dependencies": {
+    "log4js": "^1.1.0",
+    "promise": "^8.0.1",
+    "selenium-webdriver": "^2.48.2"
+  },
+  "devDependencies": {}
+}
